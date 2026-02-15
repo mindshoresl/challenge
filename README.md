@@ -10,10 +10,10 @@ Este challenge es abierto y público. No necesitas que nadie te invite. Si sos d
 
 ```
 1. Forkeá este repositorio
-2. Leé este README completo antes de escribir una sola linea de codigo
-3. Construí tu solucion
+2. Leé este README completo antes de escribir una sola línea de código
+3. Construí tu solución
 4. Abrí un Pull Request contra este repo con tu trabajo
-5. Nuestro equipo de ingenieria lo revisa y te da feedback
+5. Nuestro equipo de ingeniería lo revisa y te da feedback
 ```
 
 **No hay fecha límite.** Valoramos la calidad sobre la velocidad. Tomate el tiempo que necesites para demostrar tu mejor trabajo.
@@ -28,19 +28,19 @@ Crear una aplicación web fullstack que conecte con la API de NASA para explorar
 
 | Feature | Descripción |
 |---------|-------------|
-| **Búsqueda avanzada** | Buscar imágenes de NASA con filtros: fecha, rover, camara, mision |
-| **Colecciones personalizadas** | Los usuarios pueden crear multiples colecciones tematicas, no solo "favoritos" |
-| **Enriquecimiento con IA** | Generar descripciones, datos curiosos o contexto historico de las imágenes usando OpenAI |
+| **Búsqueda avanzada** | Buscar imágenes de NASA con filtros: fecha, rover, cámara, misión |
+| **Colecciones personalizadas** | Los usuarios pueden crear múltiples colecciones temáticas, no solo "favoritos" |
+| **Enriquecimiento con IA** | Generar descripciones, datos curiosos o contexto historico de las imágenes usando OpenAI (o cualquier LLM) |
 | **Autenticación** | Registro, login, y que cada usuario tenga sus propias colecciones |
 
 ### Diferenciadores (elegir al menos 2)
 
 | Feature | Descripción |
 |---------|-------------|
-| Comparador de imágenes | Seleccionar 2+ imágenes y ver side-by-side con analisis comparativo generado por IA |
+| Comparador de imágenes | Seleccionar 2+ imágenes y ver side-by-side con análisis comparativo generado por IA |
 | Timeline interactivo | Visualizar imágenes en una línea de tiempo navegable |
-| Exportar coleccion | Generar un PDF o presentacion con las imágenes y descripciones |
-| Búsqueda semántica | Buscar imágenes por descripcion natural ("mostrame atardeceres en Marte") |
+| Exportar coleccion | Generar un PDF o presentación con las imágenes y descripciones |
+| Búsqueda semántica | Buscar imágenes por descripción natural ("mostrame atardeceres en Marte") |
 | Sistema de tags | Taggear imágenes manualmente o con sugerencias de IA |
 
 ## Requisitos técnicos
@@ -119,15 +119,15 @@ En la descripción de tu PR, contanos:
 - **Documenta las decisiones tecnicas** — especialmente los trade-offs. "Elegi X porque Y" vale más que la solución perfecta sin explicación
 - **Sorprendenos** — que harias diferente si este fuera tu producto?
 
-## Preguntas?
+## ¿Preguntas?
 
 Si algo no esta claro, [abri un issue](https://github.com/mindshoresl/challenge/issues) en este repositorio. Hacer buenas preguntas es una habilidad que valoramos mucho.
 
-Tambien podes escribirnos a **talent@mindshore.io**.
+También podés escribirnos a **talent@mindshore.io**.
 
 ## Sobre MindShore
 
-Somos una empresa de tecnologia con presencia en mas de 12 paises. Trabajamos en proyectos de Data & Analytics, Software Engineering, ERP/CRM e IA aplicada para clientes globales.
+Somos una empresa de tecnología con presencia en mas de 12 países. Trabajamos en proyectos de Data & Analytics, Software Engineering, ERP/CRM e IA aplicada para clientes globales.
 
 Más info en [mindshore.io](https://mindshore.io/) y nuestro [LinkedIn](https://www.linkedin.com/company/mindshore)
 
