@@ -1,10 +1,10 @@
-# MindShore - Desafio Tecnico
+# MindShore - Desafio Técnico
 
-**Plataforma de Exploracion Espacial con IA**
+**Plataforma de Exploración Espacial con IA**
 
 > Crea una aplicación web fullstack que permita explorar, curar y enriquecer contenido espacial de NASA utilizando IA generativa.
 
-Este challenge es abierto y publico. No necesitas que nadie te invite. Si sos desarrollador/a y querés sumarte a MindShore, este es tu punto de entrada.
+Este challenge es abierto y público. No necesitas que nadie te invite. Si sos desarrollador/a y querés sumarte a MindShore, este es tu punto de entrada.
 
 ## ¿Cómo participar?
 
