@@ -129,7 +129,7 @@ Tambien podes escribirnos a **talent@mindshore.io**.
 
 Somos una empresa de tecnologia con presencia en mas de 12 paises. Trabajamos en proyectos de Data & Analytics, Software Engineering, ERP/CRM e IA aplicada para clientes globales.
 
-Más info en [mindshore.io](https://mindshore.io/) y nuestro [linkedin](https://www.linkedin.com/company/mindshore)
+Más info en [mindshore.io](https://mindshore.io/) y nuestro [LinkedIn](https://www.linkedin.com/company/mindshore)
 
 
 **Buena suerte. Esperamos ver tu talento.**
