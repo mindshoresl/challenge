@@ -18,7 +18,7 @@ Este challenge es abierto y público. No necesitas que nadie te invite. Si sos d
 
 **No hay fecha límite.** Valoramos la calidad sobre la velocidad. Tomate el tiempo que necesites para demostrar tu mejor trabajo.
 
-## El desafio
+## El desafío
 
 ### Objetivo
 
@@ -28,10 +28,10 @@ Crear una aplicación web fullstack que conecte con la API de NASA para explorar
 
 | Feature | Descripción |
 |---------|-------------|
-| **Busqueda avanzada** | Buscar imágenes de NASA con filtros: fecha, rover, camara, mision |
+| **Búsqueda avanzada** | Buscar imágenes de NASA con filtros: fecha, rover, camara, mision |
 | **Colecciones personalizadas** | Los usuarios pueden crear multiples colecciones tematicas, no solo "favoritos" |
 | **Enriquecimiento con IA** | Generar descripciones, datos curiosos o contexto historico de las imágenes usando OpenAI |
-| **Autenticacion** | Registro, login, y que cada usuario tenga sus propias colecciones |
+| **Autenticación** | Registro, login, y que cada usuario tenga sus propias colecciones |
 
 ### Diferenciadores (elegir al menos 2)
 
@@ -40,7 +40,7 @@ Crear una aplicación web fullstack que conecte con la API de NASA para explorar
 | Comparador de imágenes | Seleccionar 2+ imágenes y ver side-by-side con analisis comparativo generado por IA |
 | Timeline interactivo | Visualizar imágenes en una línea de tiempo navegable |
 | Exportar coleccion | Generar un PDF o presentacion con las imágenes y descripciones |
-| Busqueda semantica | Buscar imágenes por descripcion natural ("mostrame atardeceres en Marte") |
+| Búsqueda semántica | Buscar imágenes por descripcion natural ("mostrame atardeceres en Marte") |
 | Sistema de tags | Taggear imágenes manualmente o con sugerencias de IA |
 
 ## Requisitos técnicos
